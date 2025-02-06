@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iwamaryue/FUXA1"
+    "url": "https://github.com/frangoteam/FUXA"
   },
   "dependencies": {
     "@influxdata/influxdb-client": "1.25.0",
